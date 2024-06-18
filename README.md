@@ -16,7 +16,7 @@ We employ PySpark, the Apache Spark’s Python API, to manage and analyze the la
 - **Data Preprocessing and Management**: Prior to clustering, we will implement significant preprocessing steps using PySpark’s DataFrame API, including handling missing values, normalizing data, and encoding categorical variables.
 - **Visualizations and Insights Extraction**: Generate visualizations directly from Spark DataFrames using integrations like Plotly and Databricks notebooks to facilitate immediate insights and interpretation of clustering results.
 
-## Project Objective
+## Project Objectives
 
 - Identify common dietary and physical activity patterns among U.S. populations.
 - Discover correlations between these patterns and specific health outcomes.
